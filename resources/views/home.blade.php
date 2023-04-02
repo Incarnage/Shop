@@ -9,4 +9,5 @@
     </div>
 </div>
 <x-product-list></x-product-list>
+
 @endsection
